@@ -1,1 +1,1 @@
-# DjangoURL
+# DjangoModel
